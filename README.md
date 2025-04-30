@@ -73,13 +73,7 @@ To prevent future issues:
 
 ---
 
-## 📄 License
-
-MIT License. You are free to use, modify, and distribute this project for educational or personal use.
-
----
-
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Dinesh Punni’s AR Tutorials(https://www.youtube.com/watch?v=GfS72wqKQ_g)
 - Unity Technologies — AR Foundation and XR Tools
