@@ -1,0 +1,15 @@
+# Build and Library folders (auto-generated)
+Library/
+Build/
+Builds/
+Temp/
+Obj/
+
+# Android APK and build artifacts
+*.apk
+*.aab
+
+# IL2CPP artifacts
+**/il2cppOutput/
+**/*.so
+**/*.aar
